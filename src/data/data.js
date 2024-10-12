@@ -1,4 +1,4 @@
-const data = [
+export const data = [
     {
       min: 0,
       max: 18.4,
